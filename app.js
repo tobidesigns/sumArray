@@ -1,3 +1,5 @@
+//$ pip3 install flask && python3 server.py
+
 function sumNumbers(arr){
     let total = 0;
     console.log(`We will be finding the sum of the array ${arr}`)
